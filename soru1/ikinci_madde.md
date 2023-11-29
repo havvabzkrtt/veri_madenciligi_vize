@@ -7,7 +7,6 @@ Bu programda en optimal kümenin bulunması için “Silhouette Skoru” kullan�
 
 ## Kullanılan Kütüphaneler
 ```markdown
-## Kullanılan Kütüphaneler
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
