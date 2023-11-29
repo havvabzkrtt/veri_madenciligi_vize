@@ -1,7 +1,8 @@
+Üretilen 1000 örneği k-means kümeleme yöntemi ile kümeleyiniz.
 
-#Üretilen 1000 örneği k-means kümeleme yöntemi ile kümeleyiniz.
-#K-Means Kümeleme, veri noktalarını birbirlerine benzerliklerine göre gruplandıran bir kümeleme algoritmasıdır. Veri noktaları arasındaki benzerlik, genellikle öklidyen uzaklık ölçüsü kullanılarak hesaplanır. Bu algoritma, veri setini belirli sayıda (k adet) küme veya grup içinde sınıflandırmaya çalışır.
-#K-means algoritması, başlangıçta rastgele seçilen küme merkezleri üzerinden kümeleme yapar. Bu nedenle, algoritma her çalıştığında farklı bir başlangıç durumu ile başlar ve bu da farklı kümeleme sonuçlarına yol açabilir.
+K-Means Kümeleme, veri noktalarını birbirlerine benzerliklerine göre gruplandıran bir kümeleme algoritmasıdır. Veri noktaları arasındaki benzerlik, genellikle öklidyen uzaklık ölçüsü kullanılarak hesaplanır. Bu algoritma, veri setini belirli sayıda (k adet) küme veya grup içinde sınıflandırmaya çalışır.
+
+K-means algoritması, başlangıçta rastgele seçilen küme merkezleri üzerinden kümeleme yapar. Bu nedenle, algoritma her çalıştığında farklı bir başlangıç durumu ile başlar ve bu da farklı kümeleme sonuçlarına yol açabilir.
 
 ```markdown
 # K-Means Kümeleme
