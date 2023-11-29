@@ -1,4 +1,3 @@
-Açıklamaları ve görselleştirmeleri içeren bu bilgilerin Markdown formatına dönüştürülmüş hali aşağıda verilmiştir:
 
 ```markdown
 # 1.1 K-Means Kümeleme
