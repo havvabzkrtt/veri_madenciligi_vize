@@ -71,10 +71,12 @@ plt.show()
 
 ## Görselleştirmeler
 - Silhouette Skorları ve En İyi Küme Sayısı:
-![Silhouette Skorları](link_to_image1)
+- ![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/7efd6396-e9b9-4b54-a2f9-48dc23159862)
+
 
 - En İyi Küme Sayısına Göre K-Means Kümeleme:
-![K-Means Kümeleme](link_to_image2)
+- ![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/6aa964ce-dfe1-4c90-a516-882765cf8d6b)
+
 ```
 
-Bu Markdown kodu, Silhouette skorlarını kullanarak en iyi küme sayısını belirleyen ve bu küme sayısıyla K-Means kümeleme uygulayan bir programın açıklamalarını içerir. Resim bağlantıları (`link_to_image1` ve `link_to_image2`) gerçek resim dosyalarınıza uygun olarak değiştirilmelidir.
+Bu Markdown kodu, Silhouette skorlarını kullanarak en iyi küme sayısını belirleyen ve bu küme sayısıyla K-Means kümeleme uygulayan bir programın açıklamalarını içerir. 
