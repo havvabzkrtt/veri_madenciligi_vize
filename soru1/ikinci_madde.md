@@ -5,9 +5,9 @@ Bu programda en optimal kümenin bulunması için “Silhouette Skoru” kullan�
 
 “Silhouette Skoru” kümeleme sonuçlarının başarısını ölçen bir yöntemdir. Küme içindeki bir verinin, kendi kümesine benzerliğinin ve en yakın olan kümeye benzerliğinin farkını ölçer. En yüksek Silhouette skoru en optimal küme sayısını temsil eder. 
 
-
+## Kullanılan Kütüphaneler
 ```markdown
-
+## Kullanılan Kütüphaneler
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
