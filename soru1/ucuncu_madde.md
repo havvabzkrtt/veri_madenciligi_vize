@@ -1,9 +1,8 @@
 ikinci_maddede.py modelin yeni bir noktayı sınıflandırma yeteneği aşağıdaki kodda yer almaktadır. 
 
-```markdown
-# 1.3 
-
 ## Kullanılan Kütüphaneler
+```markdown
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
