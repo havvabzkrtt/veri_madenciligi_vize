@@ -4,10 +4,9 @@ K-Means Kümeleme, veri noktalarını birbirlerine benzerliklerine göre gruplan
 
 K-means algoritması, başlangıçta rastgele seçilen küme merkezleri üzerinden kümeleme yapar. Bu nedenle, algoritma her çalıştığında farklı bir başlangıç durumu ile başlar ve bu da farklı kümeleme sonuçlarına yol açabilir.
 
-```markdown
-# K-Means Kümeleme
-
 ## Kullanılan Kütüphaneler
+```markdown
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
