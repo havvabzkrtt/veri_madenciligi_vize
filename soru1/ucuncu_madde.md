@@ -64,6 +64,15 @@ plt.scatter(new_point[0, 0], new_point[0, 1], c='red', marker='X', s=200, label=
 plt.title('K-Means Kümeleme ve Yeni Nokta (Anomaly Eşik: 3)')
 plt.legend()
 plt.show()
+
 ```
+## Görselleştirmeler
+- K-Means Kümeleme ve “1” Sınıfına Ait
+- ![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/597479d0-24df-491e-b45a-d9fda5ebe3c2)
+
+
+- K-Means Kümeleme ve Anomali Olarak Sınıflandırılmış
+- ![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/ebc37af0-3bfc-40ca-87c7-24a6d73e22a1)
+
 
 Bu Markdown kodu, yeni bir noktanın belirlenmesi ve bu noktanın bir sınıfa veya bir anomali olarak sınıflandırılması süreçlerini açıklar. 
