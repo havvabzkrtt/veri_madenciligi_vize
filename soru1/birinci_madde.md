@@ -56,10 +56,12 @@ plt.show()
 
 ## Görselleştirmeler
 - Kümeleme Öncesi:
-![Kümeleme Öncesi](link_to_image1)
+![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/b5c11cab-7448-4acd-b19e-35229fa6849e)
+
 
 - Kümeleme Sonrası:
-![Kümeleme Sonrası](link_to_image2)
+![image](https://github.com/havvabzkrtt/veri_madenciligi_vize/assets/81237002/59703698-08c5-41b0-af0a-e0eb6c0d4acf)
+
 ```
 
 Bu Markdown kodu, belirli bir kümeleme öncesi ve sonrası veri setini ve sonuçları gösterir. Resim bağlantıları (`link_to_image1` ve `link_to_image2`) gerçek resim dosyalarınıza uygun olarak değiştirilmelidir.
